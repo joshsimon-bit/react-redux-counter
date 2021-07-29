@@ -1,0 +1,9 @@
+{
+  "name": "react-redux-counter",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.0"
+  }
+}
